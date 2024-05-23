@@ -2,6 +2,7 @@
     "name": "app-state-test",
     "version": "1.0.0",
     "license": "MIT",
+    "private": "true",
     "devDependencies": {
         "@goser/app-state": "https://github.com/goser/app-state.git",
         "@types/react": "^18.3.2",
