@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "license": "MIT",
     "private": "true",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goser/app-state-test.git"
+    },
     "devDependencies": {
         "@goser/app-state": "https://github.com/goser/app-state.git",
         "@types/react": "^18.3.2",
